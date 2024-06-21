@@ -17,13 +17,6 @@ git push -u origin master
 
 
 
-2) nomad
-  
-    installation cluster nomad
-    git checkout -b nomad
-    git add .
-    git commit -m "nomad"
-    git push origin nomad
 
 
 
